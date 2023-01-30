@@ -10,3 +10,6 @@ Game to beat the clock by typing random words
 - Implement timer
 - Add certain amount of time after word is typed based on difficulty
 - Store difficulty setting in local storage
+
+#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+
